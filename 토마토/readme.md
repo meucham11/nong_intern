@@ -1,7 +1,7 @@
 # 안열릴 때
 [01_토마토생육][토마토생육]
 
-[토마토생육]:https://nbviewer.jupyter.org/github/meucham11/nong_intern/blob/main/%ED%86%A0%EB%A7%88%ED%86%A0/01_%ED%86%A0%EB%A7%88%ED%86%A0%EC%83%9D%EC%9C%A1.ipynb
+[토마토생육]:https://nbviewer.jupyter.org/github/meucham11/nong_intern/blob/main/토마토/1819/01_토마토생육.ipynb
 
 [02_생육_농가별비교][생육_농가별비교]
 
