@@ -15,6 +15,7 @@
 [오마이][오마이]
 
 [오마이]:https://nbviewer.jupyter.org/github/meucham11/nong_intern/blob/main/%ED%86%A0%EB%A7%88%ED%86%A0/1819/%EC%98%A4%EB%A7%88%EC%9D%B4_%E3%85%87%E3%84%B1%E3%85%8C.ipynb
+
 </br>
 장수1
 
